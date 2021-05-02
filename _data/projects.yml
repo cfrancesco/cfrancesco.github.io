@@ -1,0 +1,17 @@
+- name: Transformer TTS
+  link: github.com/asideas/TransformerTTS
+  github: asideas/TransformerTTS
+  description: | # this will include new lines to allow paragraphs
+    Implementation of a non-autoregressive text-to-speech Transformers network.
+    Samples, fully trained models and documentation are available on the project page.
+    Based on a server-less AWS architecture, this model (German, not open-sourced) is used in an experimentalfeature on the welt.de website for synthesis of audio articles.
+
+
+- name: Image Super Resolution
+  link: github.com/idealo/image-super-resolution
+  github: /idealo/image-super-resolution
+  description: | # this will include new lines to allow paragraphs
+    Image upscaling and quality enhancing system using GANs.
+    In this project SOTA solutions were combined, modified and implemented and several pre-trained networks for different use-cases are provided.
+    The documentation can be found [here](https://idealo.github.io/image-super-resolution/)
+    I wrote about this project in a blog post series: [part 1](https://medium.com/idealo-tech-blog/a-deep-learning-based-magnifying-glass-dae1f565c359), [part 2](https://medium.com/idealo-tech-blog/zoom-in-enhance-a-deep-learning-based-magnifying-glass-part-2-c021f98ebede)
