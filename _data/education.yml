@@ -1,0 +1,16 @@
+- name: Technical University Berlin
+  dates: 2014 - 2017
+  qualification: MSc Mathematics
+  #quote: >
+    # .
+  description: | # this will include new lines to allow paragraphs
+    Applied mathematics for scientific computations, engineering and applications.
+    Main focus on Optimization Algorithms, Statistics and Numerics for PDEs, later specialized in Machine Learning and Bayesian Inference.
+
+    In my thesis I defined a novel Bayesian Optimization approach to jointly optimize closely related black-box functions using Gaussian Processes.
+    
+    During my research assistant experience I also created a parallel version of the (collapsed) Latent Dirichlet Allocation algorithm for natural language topic modelling..
+
+- name: University of Parma
+  dates: 2011 - 2014
+  qualification: BSc Mathematics
