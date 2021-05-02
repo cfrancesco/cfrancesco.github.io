@@ -51,7 +51,9 @@ educaton_title: Education
 more_title: Talks
 more_content: | # this will include new lines to allow paragraphs
    April 2021: **ODSC East**, Remote, *Brand Voice: Deep Learning for Speech Synthesis*
+   
    June 2019: **PyData Amsterdam**, Amsterdam, *Low to High Resolution: a walk through an Image Super-Resolution project with CNNs and GANs* [[video](https://www.youtube.com/watch?v=lPpA8y6rEjg)]
+   
 # Footer
 footer_show_references: false
 
