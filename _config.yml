@@ -1,0 +1,66 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Francesco Cardinale
+title: Machine Learning Engineer
+email: francesco.cardinale.public@gmail.com
+website: cfrancesco.github.io
+
+# Social links
+twitter_username: testadicardi
+github_username:  cfrancesco
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+linkedin_username: francesco-cardinale-a47b9888
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+   I am currently part of the AI Team at Axel Springer where we work on machine learning and deep learning projects 
+   covering computer vision, natural language processing, natural langauge generation, text-to-speech, speech-to-text
+   and many other interesting topics.
+   My educational background is in theoretical and computational mathematics, Bayesian learning and classical machine learning.
+   Over the last few years I had the privilege to nose-dive into the deep learning domain and do interesting research. Still loving all the input
+   I receive from this incredible field and can not wait to give my contribution.
+   
+   I am proficient in **Python**, thanks to which I forgot all the **C++** learned when doing numerical approximations of PDEs #noregrets.
+   I have have worked with both Tensorflow and PyTorch, love both but the most love goes to PyTorch.
+   **AWS**, **Docker** and **Jenkins** are also things I had the chance to deal with.
+
+   I am passionate about politics, ethics, phylosophy and the dynamics of society in general. 
+   Despite not knowing nearly enough about any of this, I love getting into deep interesting coversations on these topics. Or on any topic really.
+   I can be annoyingly curious, activate with caution.
+# Experience Section
+experience_title: Experience
+
+# Projects Section
+projects_title: Open-source projects
+
+# Education Section
+educaton_title: Education
+
+# More Section
+more_title: Talks
+more_content: | # this will include new lines to allow paragraphs
+   April 2021: **ODSC East**, Remote, *Brand Voice: Deep Learning for Speech Synthesis*
+   June 2019: **PyData Amsterdam**, Amsterdam, *Low to High Resolution: a walk through an Image Super-Resolution project with CNNs and GANs* [[video](https://www.youtube.com/watch?v=lPpA8y6rEjg)]
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
