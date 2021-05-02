@@ -24,8 +24,8 @@ linkedin_username: francesco-cardinale-a47b9888
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   I am currently part of the AI Team at Axel Springer where we work on machine learning and deep learning projects 
-   covering computer vision, natural language processing, natural langauge generation, text-to-speech, speech-to-text
+   I am currently part of the AI Team at idea Engineering (Axel Springer group) where we work on machine learning and deep learning projects
+   covering computer vision, natural language processing, natural language generation, text-to-speech, speech-to-text
    and many other interesting topics.
 
    My educational background is in theoretical and computational mathematics, Bayesian learning and classical machine learning.
