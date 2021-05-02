@@ -1,0 +1,16 @@
+- company: ideas Engineer GmbH
+  link: ideas-engineering.io/
+  job_title: Machine Learning Trainee
+  dates: August 2019 - Present
+  description: |
+    Main topics: generative models, NLP, neural speech synthesis.
+    Here I contribute in driving the research in TTS and Generative Models domains and implementing MVPs and ML backend infrastructure.
+    
+- company: idealo Internet GmbH
+  link: idealo.de
+  job_title: Machine Learning Trainee
+  dates: August 2018 - August 2019
+  description: |
+    Research and Development: Deep Learning for Computer Vision, Customer Matching
+    Dealing with data pipelines and deployment as well as presenting results to the ML community at conferences and meetups.
+    Technologies: Python (keras, tensorflow, pandas, sklearn, ..), Docker, AWS (EC2, S3), Openshift
